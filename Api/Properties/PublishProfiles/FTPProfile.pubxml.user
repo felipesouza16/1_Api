@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAmXGv+AMuUEel4rAk0X9cawAAAAACAAAAAAAQZgAAAAEAACAAAAD+KVAzWNKqvNJ3Ld2Qi9OzM5QPggWqEtpkxW0BYb9ohAAAAAAOgAAAAAIAACAAAAAmiYpBCqRzhvO5autW8PG3e7VkPt8NfLJ34EOx/FFSPBAAAADw/i9WUaaoljMMA+xd69nqQAAAANSCm7rW0h+0/fjFPFYOYHwwB/pEGtI7WgLQWMD460K3hhb5xxKu60dB+qI27Qegt+Q+4efX54Uzg+pGf3ByxQc=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://192.168.0.196/SiteTeste</_PublishTargetUrl>
+    <History>True|2021-08-20T12:53:33.5970584Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Api.deps.json">
+      <publishTime>08/20/2021 09:53:25</publishTime>
+    </File>
+    <File Include="Api.dll">
+      <publishTime>08/20/2021 09:53:24</publishTime>
+    </File>
+    <File Include="Api.exe">
+      <publishTime>08/20/2021 09:53:24</publishTime>
+    </File>
+    <File Include="Api.pdb">
+      <publishTime>08/20/2021 09:53:24</publishTime>
+    </File>
+    <File Include="Api.runtimeconfig.json">
+      <publishTime>08/20/2021 09:53:25</publishTime>
+    </File>
+    <File Include="appsettings.Development.json">
+      <publishTime>08/19/2021 17:21:00</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>08/19/2021 17:21:00</publishTime>
+    </File>
+    <File Include="Data.dll">
+      <publishTime>08/20/2021 09:53:11</publishTime>
+    </File>
+    <File Include="Data.pdb">
+      <publishTime>08/20/2021 09:53:11</publishTime>
+    </File>
+    <File Include="EntityFramework.dll">
+      <publishTime>04/16/2020 17:38:44</publishTime>
+    </File>
+    <File Include="EntityFramework.SqlServer.dll">
+      <publishTime>04/16/2020 17:39:00</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 17:14:12</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>07/20/2020 18:33:18</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/sni.dll">
+      <publishTime>07/12/2017 08:24:24</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/sni.dll">
+      <publishTime>07/12/2017 08:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/sni.dll">
+      <publishTime>07/12/2017 08:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>07/20/2020 18:33:24</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>11/15/2019 05:53:46</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>09/23/2020 09:47:20</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>09/23/2020 09:47:22</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>09/23/2020 09:47:24</publishTime>
+    </File>
+    <File Include="System.CodeDom.dll">
+      <publishTime>11/15/2019 05:36:56</publishTime>
+    </File>
+    <File Include="System.Configuration.ConfigurationManager.dll">
+      <publishTime>11/15/2019 05:37:04</publishTime>
+    </File>
+    <File Include="System.Data.SqlClient.dll">
+      <publishTime>07/20/2020 18:21:14</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>11/15/2019 05:37:42</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>08/20/2021 09:53:25</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
